@@ -21,6 +21,4 @@ function createHexValue(){
     hexCode.textContent = hexColor.toLowerCase();
 }
 
-
-
 btn.addEventListener("click", createHexValue);
