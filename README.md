@@ -1,3 +1,3 @@
 # Hex-color-generator
 
-Simple hex code color generator made with vanilla JavaScript.
+Hex code color generator made with vanilla JavaScript.
