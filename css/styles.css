@@ -9,7 +9,6 @@ html {
     font-size: 62.5%;
 }
 
-
 .container {
     display: flex;
     flex-direction: column;
@@ -20,7 +19,7 @@ html {
     color: #ecf0f1;
 }
 
-.color--preview {
+.color__preview {
     width: 50rem;
     height: 25rem;
     background-color: transparent;
